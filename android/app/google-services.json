@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925459814766",
+    "project_id": "sohrab_portfolio-af244",
+    "storage_bucket": "sohrab_portfolio-af244.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925459814766:android:50cfc9257f14f7e540c97f",
+        "android_client_info": {
+          "package_name": "com.example.sohrab_portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWmoDxzfqsuaixgIYSSL4iipy6RLelqd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
